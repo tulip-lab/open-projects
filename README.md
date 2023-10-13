@@ -47,6 +47,7 @@ You are free to choose any project from the recommended lists.
 | :three: | AI | :book: [Fur-seal face recognition](P03/README.md) | :star::star::star: | :star::star::star::star: |  
 | :four: | Cyber | :book: [Abnormal DNS Traffic Detection](P04/README.md) | :star:: | :star::star::star::star: |  
 | :five: | Cyber | :book: [ZTA Architecture](P05/README.md) | :star::star::star: | :star::star::star::star: |  
+| :six: | AI | :book: [Photo-based Attendance Ststen](P06/README.md) | :star::star::star: | :star: |  
 
 
 
