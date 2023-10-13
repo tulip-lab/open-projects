@@ -14,7 +14,7 @@
 # TULIP-Lab Open Projects
 
 - This series of projects was originally established as the capstone projects for **elite class** students in some top Asia Pacific universities, including [Deakin University](http://wwww.deakin.edu.au), [Southeast University](http://www.seu.edu.cn), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn), [Nanjing University of Science and Technology](http://www.njust.edu.cn), [Vellor Institute of Technology](http://www.vit.ac.in), [SRM Institute of Science & Technology](https://www.srmist.edu.in/) etc. (since 2012).
-- Without explicit written agreement, you are not allowed to change and distribute this package.
+- Without explicit agreement, you are not allowed to distribute this package.
 - If you found any issue/bug for this site, please submit an issue at [tulip-lab/open-projects](https://github.com/tulip-lab/open-projects/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/open-projects)](https://github.com/tulip-lab/open-projects/issues)
 - Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/open-projects)](https://github.com/tulip-lab/open-projects/pulls) 
 - Point of Contact :point_right: : [Prof. Gang Li](https://github.com/tuliplab)
