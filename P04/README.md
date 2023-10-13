@@ -1,44 +1,41 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Open--Projects-brightgreen)](../README.md)
 [![GitHub watchers](https://img.shields.io/badge/Module-PaaS-orange)](README.md)
 
-# Tourism Demand Forecasting Web Service
+# Abnormal DNS Traffic Detection 
 
-This project is on the web service implementation of a series of research projects that pioneer the tourism demand forecasting using modern AI approaches. Related implementations and publications:
+DNS is a critical and foundational protocol of the internet - often described as the `phonebook of the internet`, which maps the domain names to IP addresses. However, DNS' ubiquity (and frequent lack of scrutiny) can enable very elegant and subtle methods for communicating, and sharing data, beyond the protocol's original intentions. Free tools are available for attackers to create covert channels over DNS for the purposes of hiding communication or bypassing policies put in place by network administrators.
 
-- https://github.com/tulip-lab/open-code
-- https://www.sciencedirect.com/science/article/abs/pii/S0160738319300143
+This project theme (and its subprojects) represents a collective effort in understanding the security loopholes related to DNS service and developing methods to identify abnormal DNS traffic for risk mitigation. 
 
-The project aims to implement a web service using `ML flow` (or other package, if suitable) to cover the pipeline of `tourism demand forecasting`, including:
-- Data Crawling (univariate and multivariate)
-- Forecasting model integration, based on released code
-- Forecasting model evaluation, walkthrough evaluation based on the latest data, and historical data
-- Web service deployment and security configuration
-- Online documents and demonstrations
+Students in this project will be guided by the supervisors and complete the following tasks related to different aspects of DNS security:
+
+1.	To complete a literature review on DNS security issues and the corresponding state-of-the-art mitigation methods
+2.	To develop various methods to identify abnormal DNS traffic, and evaluate the performance against state-of-the-art methods
+3.	To develop methods to identify encrypted DNS traffic, such as DNS over https, or DNS over TLS, and evaluate the possibility of a complete detection
+4.	To establish and maintain an open-source repository for the related research data sets, and the developed tools
+
 
 ## Keywords:
 
-- Internet of Things, Network Traffic Modelling, Autonomous Vehicles, Machine Learning, Python Programming.
+- Anomaly Detection, DNS, Machine Learning, Python Programming.
 
 
 ## Tools and Platforms
 
 - Python Programming
-- ML Flow
 - GitHub Repository
-- CloudFlare
 - Markdown document
 
 ## Necessary Skills
 
-- Python programming, data science, machine learning, pattern recognition, 
-[ML Flow](https://mlflow.org/), [GitHub Repository](https://github.com/tulip-lab/open-code)
+- Foundational Internet knowledge, especially DNS queries/responses and related protocols, coding
 
-There will be a varies of specific technique skills for the team members:
+- Python programming, data science, machine learning, pattern recognition
 
--  Data crawling;  
--  ML Flow platform;  
--  Time Series Forecasting model 
--  Cloud platform (Cloudflare)
+- [GitHub Repository](https://github.com/tulip-lab/open-code)
+
+There will be a varies of extra skills for the team members:
+
 -  Documentation 
 -  GUI
 
