@@ -58,7 +58,7 @@ More detailed requirements for *assignments*, please follow their [corresponding
 - Stage :two: - research projects compatible with Deakin's [SIT724](https://www.deakin.edu.au/courses/unit?unit=SIT724) unit
 - Stage :three: - research projects compatible with [Honours](https://www.deakin.edu.au/course/bachelor-information-technology-honours) projects
 
-The presentation :bar_chart: about `NEXUS` project can be accessed from [here](https://github.com/tulip-lab/handouts/blob/main/nexus/FLIP20A.pdf) (*best PDF view using Full Screen mode*) with [handouts](https://github.com/tulip-lab/handouts/blob/main/nexus/FLIP20A-Handout.pdf).
+The presentation :bar_chart: about `NEXUS` project can be accessed from [here](https://github.com/tulip-lab/handouts/blob/main/nexus/FLIP20A.pdf) (*best PDF view using Full Screen mode*) with [handouts](https://github.com/tulip-lab/handouts/blob/main/nexus/FLIP20A-Handouts.pdf).
 
 Every project has its own specific requirements, which can be accessed from the corresponding project pages.
 
