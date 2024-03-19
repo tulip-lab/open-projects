@@ -8,7 +8,25 @@
 - Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
 ---
 
-Topological Data Analysis (TDA) has emerged as potent tools, leveraging extracted topological features as inputs for machine (deep) learning or as valuable complements, demonstrating notable eﬀicacy across various applications, including biology, materials science, computer vision (CV) and natural language processing (NLP). Persistent homology (PH) is a powerful tool in TDA for studying topological features and patterns (e.g., connected components, loops, voids) in data across multiple scales, so-called the notion of filtration. However, PH has follwing limitations: (i) diﬀicultly to get a correct Persistent Diagram (PD) based on the original structure of the object, (ii) ineﬀiciently in large scale dataset.
+Topological Data Analysis (TDA) has emerged as potent tools, 
+logical Data Analysis (TDA) is a field at the intersection of mathematics, 
+statistics, and computer science that aims to extract and 
+analyze the topological features of complex datasets. 
+It applies tools and concepts from algebraic topology to study the shape 
+and structure of data, enabling a deeper understanding of its underlying properties.
+
+One of the key techniques in TDA is Persistent Homology, 
+which is used to identify and quantify topological features, 
+such as connected components, holes, and voids, in datasets of various dimensions. 
+It captures the evolution of these features across different scales 
+by examining the persistence of topological structures as data is filtered or thresholded.
+
+Persistent Homology analyzes the connectivity and geometry of data 
+by constructing simplicial complexes from point clouds or other representations 
+of data and then computing homology groups to measure topological features. 
+It provides a robust framework for understanding the shape of data 
+and has applications in a wide range of fields, including biology, 
+neuroscience, materials science, and computer vision.
 
 ### :notebook_with_decorative_cover: `NEXUS-S1` (compatible with [SIT723](https://www.deakin.edu.au/courses/unit?unit=SIT723))
 
