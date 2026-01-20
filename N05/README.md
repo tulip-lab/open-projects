@@ -1,5 +1,5 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Open--Projects-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-NEXUS-orange)](https://github.com/tulip-lab#runner-nexus-research-training)
+[![GitHub watchers](https://img.shields.io/badge/Module-NEXUS-orange)](../README.md#ledger-nexus-projects)
 
 # `NEXUS` Data Distillation
 
@@ -12,12 +12,12 @@ Data distillation, an emerging technique within the broader field of data compre
 
 ### :notebook_with_decorative_cover: `NEXUS-S1` (compatible with [SIT723](https://www.deakin.edu.au/courses/unit?unit=SIT723))
 
-The related documents are encrypted, and you will receive the password upon the acceptance into stage :one: of the project. 
+The related documents are encrypted, and you will receive the password upon the acceptance into the stage :one: of the project. 
 
 - [NEXUS-S1 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S1.pdf) 
 - [Stage :one: - N05: Data Distillation](https://github.com/tulip-lab/handouts/blob/main/nexus/N05-S1.pdf) 
 
-##### Outstanding Student Works
+##### :point_right: Featured Student Works
 
 - TO BE ADDED
 
@@ -28,7 +28,7 @@ The related documents are encrypted, and you will receive the password upon the 
 - [NEXUS-S2 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S2.pdf) 
 - [Stage :two: - N05: Data Distillation](https://github.com/tulip-lab/handouts/blob/main/nexus/N05-S2.pdf) 
 
-##### Outstanding Student Works
+##### :point_right: Featured Student Works
 
 - TO BE ADDED
 
@@ -41,6 +41,6 @@ The related documents are encrypted, and you will receive the password upon the 
 - [NEXUS-S3 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S3.pdf) 
 - [Stage :three: - N05: Data Distillation](https://github.com/tulip-lab/handouts/blob/main/nexus/N05-S3.pdf) 
 
-##### Outstanding Student Works
+##### :point_right: Featured Student Works
 
 - TO BE ADDED

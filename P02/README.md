@@ -1,5 +1,5 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Open--Projects-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-Attendance-orange)](README.md)
+[![GitHub watchers](https://img.shields.io/badge/Module-Assignment-orange)](../README.md#ledger-assignment-projects)
 
 # Photo based Attendance Marking System
 
