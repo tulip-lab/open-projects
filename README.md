@@ -29,7 +29,29 @@ The purpose of this series of **open projects** is to help solve a real-world AI
 - help you get experience in following cutting edge research and writing academic report;
 - help you gain hands-on experience in solving real projects.
 
-### :ledger: Assignment Projects
+### :ledger: `Coursework Research`  Projects
+
+The following projects are recommended as:  
+- *research topics* for [**master by coursework**]() students 
+- You are expected to discuss with your supervisor on those topics, and if necessary, book a meeting with [Prof. Gang Li](https://github.com/tuliplab).
+
+| :microscope: <br> ID | :ledger: <br> Project Name | :file_folder: <br> Category | :dart: <br> Technical Challenges | :man_teacher: <br> Research Challenges |
+| :----: | ------ | ------ | :-------: | :-----: |
+| :one: | :book: [Intrusion Detection via Semantic Drift Attribution](S01/README.md) | Intrusion Detection | :star::star::star::star: | :star::star::star::star::star: |
+| :two: | :book: [Behavioral Profiling for Abnormal DNS Traffic Detection](S02/README.md) | DNS Security | :star::star::star: | :star::star::star::star: |
+| :three: | :book: [Detection of Encrypted DNS Traffic (DoH / DoT)](S03/README.md) | DNS Security | :star::star::star::star: | :star::star::star: |
+| :four: | :book: [Abnormal DNS Traffic Detection (Clear-text DNS)](S04/README.md) | DNS Security | :star::star: | :star::star::star: |
+| :five: | :book: [Clean-Label Backdoor Attack in Image Classification](S05/README.md) | Backdoor Attacks | :star::star::star: | :star::star::star: |
+| :six: | :book: [Physical Backdoor Attack in Lane Detection](S06/README.md) | Backdoor Attacks | :star::star::star::star: | :star::star::star: |
+| :seven: | :book: [Object Detection Backdoor Attacks](S07/README.md) | Backdoor Attacks | :star::star::star::star: | :star::star::star::star: |
+| :eight: | :book: [Backdoor Attacks in Continual Learning](S08/README.md) | Backdoor Attacks | :star::star::star::star::star: | :star::star::star::star::star: |
+| :nine: | :book: [Poisoning Attacks in Continual Learning](S09/README.md) | Poisoning Attacks | :star::star::star::star: | :star::star::star::star::star: |
+| :one::zero: | :book: [Data-free Universal Adversarial Perturbations](S10/README.md) | Adversarial Examples | :star::star::star: | :star::star::star: |
+| :one::one: | :book: [Adversarial Example Attacks in Continual Learning](S11/README.md) | Adversarial Examples | :star::star::star::star: | :star::star::star::star: |
+| :one::two: | :book: [Safety-Critical Scenario Generation via Adversarial RL](S12/README.md) | Autonomous Driving Safety | :star::star::star::star::star: | :star::star::star::star::star: |
+| :one::three: | :book: [Generalizable Backdoor Attacks in Reinforcement Learning](S13/README.md) | Model Extraction | :star::star::star::star: | :star::star::star::star: |
+| :one::four: | :book: [Model Stealing Attacks in Reinforcement Learning](S14/README.md) | Model Extraction | :star::star::star::star: | :star::star::star::star: |
+### :ledger: `Assignment` Projects
 
 The following projects are recommended as:  
 - *assignments* of [coursework units/subjects](https://github.com/tulip-lab#man_teacher-courses) for elite class students 
