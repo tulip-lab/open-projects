@@ -49,7 +49,7 @@ The following projects are recommended as:
 | :one::zero: | :book: [Data-free Universal Adversarial Perturbations](S10/README.md) | Adversarial Examples | :star::star::star: | :star::star::star: |
 | :one::one: | :book: [Adversarial Example Attacks in Continual Learning](S11/README.md) | Adversarial Examples | :star::star::star::star: | :star::star::star::star: |
 | :one::two: | :book: [Safety-Critical Scenario Generation via Adversarial RL](S12/README.md) | Autonomous Driving Safety | :star::star::star::star::star: | :star::star::star::star::star: |
-| :one::three: | :book: [Generalizable Backdoor Attacks in Reinforcement Learning](S13/README.md) | Model Extraction | :star::star::star::star: | :star::star::star::star: |
+| :one::three: | :book: [Generalizable Backdoor Attacks in Reinforcement Learning](S13/README.md) | Backdoor Attacks | :star::star::star::star: | :star::star::star::star: |
 | :one::four: | :book: [Model Stealing Attacks in Reinforcement Learning](S14/README.md) | Model Extraction | :star::star::star::star: | :star::star::star::star: |
 ### :ledger: `Assignment` Projects
 
