@@ -13,27 +13,27 @@
 
 # TULIP-Lab Open Projects
 
-- This series of projects was originally established as the assignments and capstone projects for **elite class** students, the research projects for **master** students or **honours** students, in some top Australiasia universities, including [Deakin University](http://wwww.deakin.edu.au), [Manipal Institute of Technology](https://www.manipal.edu), [Indian Institute of Technology Kharagpur](https://www.iitkgp.ac.in/), [Southeast University](http://www.seu.edu.cn), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn), [Nanjing University of Science and Technology](http://www.njust.edu.cn), [Vellor Institute of Technology](http://www.vit.ac.in), [SRM Institute of Science & Technology](https://www.srmist.edu.in/) etc. (since 2012).
+- This series of projects was originally established as the *assignments* and *capstone projects* for **elite class** students, the *coursework research projects* for **master** students or **honours** students, in some top Australiasia universities, including [Deakin University](http://wwww.deakin.edu.au), [Manipal Institute of Technology](https://www.manipal.edu), [Indian Institute of Technology Kharagpur](https://www.iitkgp.ac.in/), [Southeast University](http://www.seu.edu.cn), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn), [Nanjing University of Science and Technology](http://www.njust.edu.cn), [Vellor Institute of Technology](http://www.vit.ac.in), [SRM Institute of Science & Technology](https://www.srmist.edu.in/) etc. (since 2012).
 - Without explicit agreement, you are not allowed to distribute this package.
 - If you found any issue/bug for this site, please submit an issue at [tulip-lab/open-projects](https://github.com/tulip-lab/open-projects/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/open-projects)](https://github.com/tulip-lab/open-projects/issues)
 - Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/open-projects)](https://github.com/tulip-lab/open-projects/pulls) 
 - Point of Contact :point_right: : [Prof. Gang Li](https://github.com/tuliplab)
 
-Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
+Prepared by :tulip: **[TULIP Lab](https://www.tulip.academy/members)**
 
 ---
 
 ## :bulb: Content
 
-The purpose of this series of **open projects** is to help solve a real-world AI project using (but not limited to) modern AI methods. Each project is designed to:
+The purpose of this series of **open projects** is to help solve a cutting-edge `AI` or `Security & Privacy` project using (but not limited to) modern methods. Each project is designed to:
 - help you get experience in following cutting edge research and writing academic report;
-- help you gain hands-on experience in solving real projects.
+- help you gain hands-on experience in solving real research projects.
 
 ### :ledger: `Coursework Research`  Projects
 
 The following projects are recommended as:  
-- *research topics* for [**master by coursework**]() students 
-- You are expected to discuss with your supervisor on those topics, and if necessary, book a meeting with [Prof. Gang Li](https://github.com/tuliplab).
+- *Research topics* for [**master by coursework**]() students 
+- You are expected to discuss with your supervisor on those topics, and if necessary, make an appointment to meet with [Prof. Gang Li](https://github.com/tuliplab).
 
 | :microscope: <br> ID | :ledger: <br> Project Name | :file_folder: <br> Category | :dart: <br> Technical Challenges | :man_teacher: <br> Research Challenges |
 | :----: | ------ | ------ | :-------: | :-----: |
