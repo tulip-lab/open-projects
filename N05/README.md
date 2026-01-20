@@ -1,5 +1,5 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Open--Projects-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-NEXUS-orange)](https://github.com/tulip-lab#runner-nexus-research-training)
+[![GitHub watchers](https://img.shields.io/badge/Module-NEXUS-orange)](../README.md#ledger-nexus-projects)
 
 # `NEXUS` Data Distillation
 

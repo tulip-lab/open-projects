@@ -1,5 +1,5 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Open--Projects-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Track-Security--AI-orange)](README.md)
+[![GitHub watchers](https://img.shields.io/badge/Track-Security--AI-orange)](../README.md#ledger-coursework-research--projects)
 
 # Intrusion Detection via Semantic Drift Attribution
 
