@@ -5,7 +5,8 @@
 
 **Project Code:** S12 
 **Track:** Security × Artificial Intelligence  
-**Revision:** Q1, 2024  
+Project Supervisor :point_right: : To be confirmed.\
+**Revision:** Q4, 2026
 
 ---
 
@@ -88,8 +89,6 @@ By completing this project, students will gain practical experience in adversari
 
 ## 6. References
 
-## References
-
 [1] Sinha, A., Chand, S., Vu, V., Chen, H., & Dixit, V., *Crash and Disengagement Data of Autonomous Vehicles on Public Roads in California*, Scientific Data 8:298, 2021, https://www.nature.com/articles/s41597-021-01083-7  
 
 [2] Gao, Y., et al., *Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis*, arXiv:2506.11526, 2025, https://arxiv.org/abs/2506.11526  
@@ -100,4 +99,4 @@ By completing this project, students will gain practical experience in adversari
 
 [5] Hao, K., Luo, Y., Cui, W., Bai, Y., Yang, J., Yan, S., Pan, Y., & Yang, Z., *Adversarial Safety-Critical Scenario Generation Using Naturalistic Human Driving Priors*, arXiv:2408.03200, 2024, https://arxiv.org/abs/2408.03200  
 
-[6] Liu, H., et al., *Safety-Critical Scenario Generation via Reinforcement Learning Based Editing*, ICRA 2024, https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Safety-Critical%20Scenario%20Generation%20via%20Reinforcement%20Learning%20Based%20Editing  
+[6] Liu, H., et al., *Safety-Critical Scenario Generation via Reinforcement Learning Based Editing*, ICRA 2024, https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Safety-Critical%20Scenario%20Generation%20via%20Reinforcement%20Learning%20Based%20Editing

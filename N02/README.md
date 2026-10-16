@@ -4,8 +4,8 @@
 # `NEXUS` Tabular Data Generation
 
 ---
-- Project Owner :point_right: : [Yishuo Zhang](https://www.tulip.org.au/members/)
-- Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
+- Project Supervisor :point_right: : [Dr Chris Yishuo Zhang](https://www.tulip.academy/members/)
+- Prepared by :tulip: **[TULIP Lab](https://www.tulip.academy/members)**
 ---
 
 
@@ -22,18 +22,18 @@ The related documents are encrypted, and you will receive the password upon the 
 
 ##### :point_right: Featured Student Works
 
-- TO BE ADDED
+Student work examples will be added when available.
 
 ### :notebook_with_decorative_cover: `NEXUS-S2` (compatible with [SIT724](https://www.deakin.edu.au/courses/unit?unit=SIT724))
 
 The related documents are encrypted, and you will receive the password upon the acceptance into the stage :two: of the project. 
 
 - [NEXUS-S2 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S2.pdf) 
-- [Stage :two: - N02: Tabular Data Generation](https://github.com/tulip-lab/handouts/blob/main/nexus/N02-S2.pdf) 
+- Stage :two: - N02: Tabular Data Generation — project-specific brief pending publication.
 
 ##### :point_right: Featured Student Works
 
-- TO BE ADDED
+Student work examples will be added when available.
 
 
 ### :notebook_with_decorative_cover: `NEXUS-S3` (compatible with [Honours](https://www.deakin.edu.au/course/bachelor-information-technology-honours))
@@ -42,8 +42,8 @@ The related documents are encrypted, and you will receive the password upon the 
 The related documents are encrypted, and you will receive the password upon the acceptance into the stage :three: of the project. 
 
 - [NEXUS-S3 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S3.pdf) 
-- [Stage :three: - N02: Tabular Data Generation](https://github.com/tulip-lab/handouts/blob/main/nexus/N02-S3.pdf) 
+- Stage :three: - N02: Tabular Data Generation — project-specific brief pending publication.
 
 ##### :point_right: Featured Student Works
 
-- TO BE ADDED
+Student work examples will be added when available.

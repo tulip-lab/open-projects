@@ -5,7 +5,8 @@
 
 **Project Code:** S07  
 **Track:** Security × Artificial Intelligence  
-**Revision:** Q1, 2026  
+Project Supervisor :point_right: : To be confirmed.\
+**Revision:** Q4, 2026
 
 ---
 
@@ -111,8 +112,8 @@ By completing this project, students will gain insight into how backdoor attacks
 ## 7. References
 
 [1] Chen, X., Liu, C., Li, B., Lu, K., & Song, D., *Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning*, arXiv:1712.05526, https://arxiv.org/abs/1712.05526  
-[2] Saha, A., Subramanya, A., & Pirsiavash, H., *Hidden Trigger Backdoor Attacks*, AAAI 2021, https://ojs.aaai.org/index.php/AAAI/article/view/16248  
+[2] Saha, A., Subramanya, A., & Pirsiavash, H., *Hidden Trigger Backdoor Attacks*, AAAI 2020, https://ojs.aaai.org/index.php/AAAI/article/view/6871\
 [3] Li, Y., et al., *Invisible Backdoor Attacks on Deep Neural Networks via Steganography and Regularization*, IEEE TPAMI, https://ieeexplore.ieee.org/document/9711191/  
 [4] Redmon, J., et al., *You Only Look Once: Unified, Real-Time Object Detection*, CVPR 2016, https://arxiv.org/abs/1506.02640  
 [5] Ren, S., He, K., Girshick, R., & Sun, J., *Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks*, NeurIPS 2015, https://arxiv.org/abs/1506.01497  
-[6] Lin, T.-Y., et al., *Microsoft COCO: Common Objects in Context*, ECCV 2014, https://cocodataset.org  
+[6] Lin, T.-Y., et al., *Microsoft COCO: Common Objects in Context*, ECCV 2014, https://cocodataset.org

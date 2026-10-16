@@ -5,15 +5,16 @@
 
 **Project Code:** S02  
 **Track:** Security × Artificial Intelligence  
-**Revision:** Q1, 2026
+Project Supervisor :point_right: : To be confirmed.\
+**Revision:** Q4, 2026
 
 ---
 
 ## 1. Project Background
 
-The Domain Name System (DNS) is a foundational protocol that translates domain names into IP addresses. Because DNS traffic is ubiquitous and often permitted through network security controls, it has become a target for attackers seeking to hide malicious activity or establish covert channels ([turn0search5]). Behavioral profiling of DNS traffic leverages statistical, temporal, and semantic characteristics of DNS queries and responses to detect abnormal events that may indicate data exfiltration, tunneling, domain generation algorithm (DGA) usage, command-and-control (C2) communication, or other stealthy behaviors.
+The Domain Name System (DNS) is a foundational protocol that translates domain names into IP addresses. Because DNS traffic is ubiquitous and often permitted through network security controls, it has become a target for attackers seeking to hide malicious activity or establish covert channels. Behavioral profiling of DNS traffic leverages statistical, temporal, and semantic characteristics of DNS queries and responses to detect abnormal events that may indicate data exfiltration, tunneling, domain generation algorithm (DGA) usage, command-and-control (C2) communication, or other stealthy behaviors.
 
-Conventional DNS monitoring methods, such as blacklisting, fail to identify adaptive adversarial methods due to high false negatives when attackers generate novel or transient malicious domains. Machine learning approaches that model *normal* DNS behavior and identify deviations are more promising due to their ability to generalize beyond known signatures and capture behavioral patterns ([turn0search21]).
+Conventional DNS monitoring methods, such as blacklisting, fail to identify adaptive adversarial methods due to high false negatives when attackers generate novel or transient malicious domains. Machine learning approaches that model *normal* DNS behavior and identify deviations are more promising due to their ability to generalize beyond known signatures and capture behavioral patterns.
 
 This project focuses on **behavioral profiling for abnormal DNS traffic detection**, where models learn patterns of benign DNS flows and flag deviations indicative of malicious intent. It explores statistical and machine learning mechanisms to profile, characterize, and detect anomalous behavior at the traffic flow and domain usage levels.
 
@@ -38,9 +39,9 @@ Challenges include dealing with highly imbalanced datasets where malicious traff
 
 Representative research relevant to this topic includes:
 
-- **Behavioral Profiling in DNS Traffic:** Methods that generate behavioral profiles of users or devices based on DNS query patterns and detect deviations without relying on signatures ([turn0academia49]).
-- **Machine Learning for DNS Anomaly Detection:** Techniques such as sequence modeling, clustering, and classification (e.g., SVM, Random Forest, deep learning) have been applied to DNS tunneling and exfiltration detection ([turn0search9], [turn0search10]).
-- **Approximate String Matching Approaches:** Transformation of DNS traffic data into symbolic sequences and applying approximate pattern matching to detect anomalies ([turn0academia47]).
+- **Behavioral Profiling in DNS Traffic:** Methods that generate behavioral profiles of users or devices based on DNS query patterns and detect deviations without relying on signatures.
+- **Machine Learning for DNS Anomaly Detection:** Techniques such as sequence modeling, clustering, and classification (e.g., SVM, Random Forest, deep learning) have been applied to DNS tunneling and exfiltration detection.
+- **Approximate String Matching Approaches:** Transformation of DNS traffic data into symbolic sequences and applying approximate pattern matching to detect anomalies.
 
 These methods improve over static rule-based systems by capturing temporal and structural aspects of DNS behavior, although scalability and model interpretability remain open issues.
 
@@ -48,7 +49,7 @@ These methods improve over static rule-based systems by capturing temporal and s
 
 The project will utilize publicly available DNS datasets suitable for behavioral anomaly research:
 
-- **CIC-Bell-DNS-EXF-2021:** A large DNS traffic dataset with benign and exfiltration attack samples. Includes feature-engineered records suitable for ML modeling. Hosted by CIC’s dataset repository and mirrored on Kaggle: https://www.unb.ca/cic/datasets/dns-exf-2021.html ([turn0search2]) / https://www.kaggle.com/datasets/humera11/cicbelldnsexf2021  
+- **CIC-Bell-DNS-EXF-2021:** A large DNS traffic dataset with benign and exfiltration attack samples. Includes feature-engineered records suitable for ML modeling. Hosted by CIC’s dataset repository and mirrored on Kaggle: https://www.unb.ca/cic/datasets/dns-exf-2021.html / https://www.kaggle.com/datasets/humera11/cicbelldnsexf2021\
 - **CIC-Bell-DNS-2021:** A large domain dataset containing malware, phishing, spam, and benign domain labels, useful for domain-level fingerprinting and classification tasks: https://www.unb.ca/cic/datasets/dns-2021.html  
 - **DNS Tunnel Dataset (Community/Research Repositories):** Collections of benign and tunneled DNS traffic useful for detecting covert channels. A consolidated resource is available via GitHub: https://github.com/ggyggy666/DNS-Tunnel-Datasets  
 

@@ -5,7 +5,8 @@
 
 **Project Code:** S06  
 **Track:** Security × Artificial Intelligence  
-**Revision:** Q1, 2026  
+Project Supervisor :point_right: : To be confirmed.\
+**Revision:** Q4, 2026
 
 ---
 
@@ -109,9 +110,9 @@ By completing this project, students will gain hands-on experience with physical
 ## 7. References
 
 [1] Chen, X., Liu, C., Li, B., Lu, K., & Song, D., *Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning*, arXiv:1712.05526, https://arxiv.org/abs/1712.05526  
-[2] Saha, A., Subramanya, A., & Pirsiavash, H., *Hidden Trigger Backdoor Attacks*, AAAI 2021, https://ojs.aaai.org/index.php/AAAI/article/view/16248  
+[2] Saha, A., Subramanya, A., & Pirsiavash, H., *Hidden Trigger Backdoor Attacks*, AAAI 2020, https://ojs.aaai.org/index.php/AAAI/article/view/6871\
 [3] Li, Y., et al., *Invisible Backdoor Attacks on Deep Neural Networks via Steganography and Regularization*, IEEE TPAMI, https://ieeexplore.ieee.org/document/9154983  
 [4] TuSimple Lane Detection Benchmark, https://github.com/TuSimple/tusimple-benchmark  
 [5] CULane Dataset, https://xingangpan.github.io/projects/CULane.html  
 [6] BDD100K Dataset, https://bdd-data.berkeley.edu  
-[7] ApolloScape Dataset, https://apolloscape.auto  
+[7] ApolloScape Dataset, https://apolloscape.auto

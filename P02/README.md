@@ -3,6 +3,8 @@
 
 # Photo based Attendance Marking System
 
+Project Supervisor :point_right: : To be confirmed.
+
 A Photo based attendance marking system in Python. Assuming that you have taken an attendance photo of the class, and design and implement a system in Python, so that the identification of people inside the photo can be properly done.
 
 The expected features:
@@ -37,5 +39,4 @@ There will be a varies of specific technique skills for the team members:
 
 ## Resources Required
 
-No special hardware, and common open packages only. 
-
+No special hardware, and common open packages only.

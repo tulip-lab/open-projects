@@ -5,7 +5,8 @@
 
 **Project Code:** S11  
 **Track:** Security × Artificial Intelligence  
-**Revision:** Q4, 2025  
+Project Supervisor :point_right: : To be confirmed.\
+**Revision:** Q4, 2026
 
 ---
 
@@ -15,7 +16,7 @@ Continual Learning (CL), also referred to as lifelong or incremental learning, a
 
 Adversarial examples (AEs) constitute a well-known threat to deep learning models. By introducing carefully crafted and often imperceptible perturbations to input data, attackers can cause models to produce incorrect predictions with high confidence. While adversarial attacks have been extensively studied in static learning settings, their effectiveness in continual learning environments is far less understood.
 
-In continual learning, models are repeatedly updated with new tasks that differ in data distribution and label space. As a result, adversarial examples crafted for an earlier model often lose their effectiveness after subsequent updates. Understanding whether adversarial examples can be made **sustainable under continual model evolution** is essential for deploying CL systems in security-critical applications  [oai_citation:1‡04_AE attack in CL.pdf](sediment://file_0000000091947206b3ef6280f28e2939).
+In continual learning, models are repeatedly updated with new tasks that differ in data distribution and label space. As a result, adversarial examples crafted for an earlier model often lose their effectiveness after subsequent updates. Understanding whether adversarial examples can be made **sustainable under continual model evolution** is essential for deploying CL systems in security-critical applications.
 
 ---
 
@@ -35,7 +36,7 @@ Recent work has begun to investigate adversarial example attacks under continual
 
 SAE aligns adversarial examples semantically with the target class while explicitly separating them from non-target classes. To improve generalization across tasks, SAE leverages a visual-language model to capture high-level semantic information and introduces filtering and augmentation strategies to stabilize adversarial semantics under continual updates.
 
-This project builds upon these ideas and encourages students to analyze why certain adversarial perturbations survive model evolution while others fail  [oai_citation:2‡04_AE attack in CL.pdf](sediment://file_0000000091947206b3ef6280f28e2939).
+This project builds upon these ideas and encourages students to analyze why certain adversarial perturbations survive model evolution while others fail.
 
 ---
 
@@ -100,4 +101,4 @@ By completing this project, students will gain a deep understanding of how adver
 
 ## 8. References
 
-[1] T. Liu, X. Liu, L. Dong, Y. Liu, Y. Yang, and Z. Ma, *Improving Sustainability of Adversarial Examples in Class-Incremental Learning*, arXiv:2511.09088, 2025, https://arxiv.org/abs/2511.09088  
+[1] T. Liu, X. Liu, L. Dong, Y. Liu, Y. Yang, and Z. Ma, *Improving Sustainability of Adversarial Examples in Class-Incremental Learning*, arXiv:2511.09088, 2025, https://arxiv.org/abs/2511.09088

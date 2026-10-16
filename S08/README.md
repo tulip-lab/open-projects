@@ -5,7 +5,8 @@
 
 **Project Code:** S08  
 **Track:** Security × Artificial Intelligence  
-**Revision:** Q4, 2025  
+Project Supervisor :point_right: : To be confirmed.\
+**Revision:** Q4, 2026
 
 ---
 
@@ -15,7 +16,7 @@ Continual Learning (CL), also known as lifelong or incremental learning, aims to
 
 Despite extensive research on performance and stability, the **security of continual learning systems remains largely underexplored**. In particular, **backdoor attacks** pose a serious threat. Backdoor attacks embed hidden malicious behaviors into a model during training, causing it to behave normally on clean inputs but produce attacker-chosen outputs when a specific trigger is present.
 
-In continual learning settings, the sequential update of model parameters creates both challenges and opportunities for attackers. While task transitions may weaken or erase backdoors, they may also be exploited to hide or reinforce malicious behaviors. Understanding how backdoors can persist across tasks is therefore critical for the safe deployment of CL systems  [oai_citation:0‡01_backdoor in CL.pdf](sediment://file_0000000098747206964764f1f723779e).
+In continual learning settings, the sequential update of model parameters creates both challenges and opportunities for attackers. While task transitions may weaken or erase backdoors, they may also be exploited to hide or reinforce malicious behaviors. Understanding how backdoors can persist across tasks is therefore critical for the safe deployment of CL systems.
 
 ---
 
@@ -35,9 +36,11 @@ These questions highlight the tension between adaptability and security in lifel
 
 ## 3. State-of-the-Art Methods
 
-Recent research has begun to address backdoor threats in continual learning. Jiang et al. introduced **latent backdoor attacks**, embedding malicious behaviors into pre-trained representations that activate only when the model is extended to downstream tasks. More recent work proposes **persistent backdoor attacks**, which strategically embed triggers into **stable neurons**—model components whose importance remains consistent across tasks.
+Recent research has begun to address backdoor threats in continual learning. Jiang et al. study latent backdoor attacks embedded in pre-trained models that become effective after incremental learning on downstream tasks.
 
-By targeting stable rather than volatile parameters, these attacks achieve long-term survival and consistent activation despite continual updates. This project builds on these insights and encourages deeper investigation into representation stability and backdoor persistence mechanisms  [oai_citation:1‡01_backdoor in CL.pdf](sediment://file_0000000098747206964764f1f723779e).
+Guo et al. investigate **persistent backdoor attacks** through Blind Task Backdoor and Latent Task Backdoor settings, using limited influence over loss computation or a single task's training. Their work examines persistence across different continual learning algorithms and trigger types [2].
+
+This project builds on these studies to investigate how attack assumptions, task sequences, and model updates affect backdoor persistence.
 
 ---
 

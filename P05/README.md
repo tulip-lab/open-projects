@@ -3,6 +3,8 @@
 
 # Analysis and Design of Decentralized Zero Trust Access Architecture
 
+Project Supervisor :point_right: : To be confirmed.
+
 Real momentum towards a highly distributed workforce has exposed the weaknesses of established perimeter-based security approaches. It has already been noticed that perimeter-based access fail to:
 1.	effectively mitigate malicious actors inside the network perimeter, and
 2.	offer a sufficient level of protection for users and assets located outside the defined network perimeter (e.g., remote users, devices, services.)
@@ -40,5 +42,4 @@ There will be a varies of specific technique skills for the team members:
 
 ## Resources Required
 
-No special hardware, and common open packages only. 
-
+No special hardware, and common open packages only.

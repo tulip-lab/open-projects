@@ -3,6 +3,8 @@
 
 # Fur-seal face recognition
 
+Project Supervisor :point_right: : To be confirmed.
+
 There are hundreds of photos shot from different islands in Victoria. In this project, you are required to develop a model to do  
 - Face Detection
   - detects all the *fur seal* faces from any image containing fur-seals
@@ -66,5 +68,4 @@ There will be a varies of specific technique skills for the team members:
 
 ## Resources Required
 
-No special hardware, and common open packages only. 
-
+No special hardware, and common open packages only.

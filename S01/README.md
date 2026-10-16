@@ -5,13 +5,14 @@
 
 **Project Code:** S01  
 **Track:** Security × Artificial Intelligence  
-**Revision:** Q1, 2026
+Project Supervisor :point_right: : To be confirmed.\
+**Revision:** Q4, 2026
 
 ---
 
 ## 1. Project Background
 
-Network intrusion detection systems (IDS) are critical components of cyber defense that monitor networks for malicious or anomalous behavior. IDS are broadly categorized as signature-based or anomaly-based systems. Anomaly-based systems model normal traffic and flag deviations as potential threats, often employing machine learning to support detection decisions ([turn0search41][turn0search43]).
+Network intrusion detection systems (IDS) are critical components of cyber defense that monitor networks for malicious or anomalous behavior. IDS are broadly categorized as signature-based or anomaly-based systems. Anomaly-based systems model normal traffic and flag deviations as potential threats, often employing machine learning to support detection decisions.
 
 Modern IDS must operate in dynamic environments where traffic patterns evolve over time due to software updates, network configuration changes, or changes in user behavior. Continual learning methods allow models to adapt incrementally to new data without retraining from scratch. However, existing continual IDS frameworks often assume benign traffic transitions and do not explicitly handle adversarial interference.
 
@@ -39,8 +40,8 @@ Key challenges include:
 Representative research related to this project includes:
 
 - **Continual Learning for IDS:** Techniques such as rehearsal, regularization, and parameter isolation are used to maintain performance on previous tasks while learning new patterns. These approaches typically lack explicit adversarial drift attribution.
-- **Concept Drift Detection:** Methods for drift detection in data streams identify changes in distribution but are not designed to determine whether drift results from adversarial manipulation ([turn0search39]).
-- **Adversarial Machine Learning:** Research on poisoning and evasion attacks informs how malicious changes can disrupt learning systems and motivates the need for robust detection mechanisms ([turn0search42]).
+- **Concept Drift Detection:** Methods for drift detection in data streams identify changes in distribution but are not designed to determine whether drift results from adversarial manipulation.
+- **Adversarial Machine Learning:** Research on poisoning and evasion attacks informs how malicious changes can disrupt learning systems and motivates the need for robust detection mechanisms.
 
 ### 3.2 Benchmark Datasets
 
@@ -88,9 +89,9 @@ Expected project deliverables and outcomes include:
 
 ## 6. References
 
-[1] Fathima, N. F. A. H., Khraisat, A., S. I. S. P., & Li, G. (2025). *Adaptive memory replay for network intrusion detection: Tackling data drift and catastrophic forgetting*. Computer Networks, 272, 111712. https://doi.org/10.1016/j.comnet.2025.111712  
+[1] Nasreen Fathima A H, Ansam Khraisat, Syed Ibrahim S P, & Gang Li (2025). *Adaptive memory replay for network intrusion detection: Tackling data drift and catastrophic forgetting*. Computer Networks, 272, 111712. https://doi.org/10.1016/j.comnet.2025.111712\
 [2] Gama, J., Žliobaitė, I., Bifet, A., Pechenizkiy, M., & Bouchachia, A. (2014). *A survey on concept drift adaptation*. ACM Computing Surveys, 46(4), 44. https://doi.org/10.1145/2523813  
-[3] Sommer, R., & Paxson, V. (2010). *On using machine learning for network intrusion detection*. IEEE Symposium on Security and Privacy, https://ieeexplore.ieee.org/document/5504793/.  
+[3] Sommer, R., & Paxson, V. (2010). *On using machine learning for network intrusion detection*. IEEE Symposium on Security and Privacy, https://ieeexplore.ieee.org/document/5504793/\
 [4] Biggio, B., & Roli, F. (2018). *Wild patterns: Ten years after the rise of adversarial machine learning*. Pattern Recognition, 84, 317-331. https://doi.org/10.1016/j.patcog.2018.07.023  
 [5] Concept drift. Wikipedia. https://en.wikipedia.org/wiki/Concept_drift  
-[6] Intrusion Detection System, Wikipedia, https://en.wikipedia.org/wiki/Intrusion_detection_system 
+[6] Intrusion Detection System, Wikipedia, https://en.wikipedia.org/wiki/Intrusion_detection_system

@@ -5,7 +5,8 @@
 
 **Project Code:** S09  
 **Track:** Security × Artificial Intelligence  
-**Revision:** Q4, 2025  
+Project Supervisor :point_right: : To be confirmed.\
+**Revision:** Q4, 2026
 
 ---
 
@@ -92,7 +93,7 @@ Study how different CL strategies, such as rehearsal-based or regularization-bas
 | Task-wise Accuracy | Accuracy measured after each task | Persistence analysis |
 | Forgetting Severity | Magnitude of performance degradation | Attack effectiveness |
 
-Backward Transfer (BWT) is defined as the average difference between task performance before and after learning subsequent tasks, where more negative values indicate stronger poisoning-induced forgetting  [oai_citation:3‡02_poisoning in CL.pdf](sediment://file_0000000081f07206bf178c466c471665).
+Backward Transfer (BWT) is defined as the average difference between task performance before and after learning subsequent tasks, where more negative values indicate stronger poisoning-induced forgetting.
 
 ---
 
@@ -106,4 +107,4 @@ By completing this project, students will gain a deep understanding of how poiso
 
 [1] H. Li and G. Ditzler, *Targeted Data Poisoning Attacks Against Continual Learning Neural Networks*, IJCNN 2022, https://ieeexplore.ieee.org/document/9892774
 [2] S. Kang, Z. Shi, and X. Zhang, *Poisoning Generative Replay in Continual Learning to Promote Forgetting*, ICML 2023,  https://proceedings.mlr.press/v202/kang23c.html
-[3] A. Abbasi, P. Nooralinejad, H. Pirsiavash, and S. Kolouri, *BrainWash: A Poisoning Attack to Forget in Continual Learning*, CVPR 2024, https://openaccess.thecvf.com/content/CVPR2024/html/Abbasi_BrainWash_A_Poisoning_Attack_to_Forget_in_Continual_Learning_CVPR_2024_paper.html  
+[3] A. Abbasi, P. Nooralinejad, H. Pirsiavash, and S. Kolouri, *BrainWash: A Poisoning Attack to Forget in Continual Learning*, CVPR 2024, https://openaccess.thecvf.com/content/CVPR2024/html/Abbasi_BrainWash_A_Poisoning_Attack_to_Forget_in_Continual_Learning_CVPR_2024_paper.html

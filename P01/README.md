@@ -3,6 +3,8 @@
 
 # Tourism Demand Forecasting Web Service
 
+Project Supervisor :point_right: : To be confirmed.
+
 This project is on the web service implementation of a series of research projects that pioneer the tourism demand forecasting using modern AI approaches. Related implementations and publications:
 
 - https://github.com/tulip-lab/open-code
@@ -44,5 +46,4 @@ There will be a varies of specific technique skills for the team members:
 
 ## Resources Required
 
-No special hardware, and common open packages only. 
-
+No special hardware, and common open packages only.

@@ -5,7 +5,8 @@
 
 **Project Code:** S04  
 **Track:** Security × Artificial Intelligence  
-**Revision:** Q1, 2026  
+Project Supervisor :point_right: : To be confirmed.\
+**Revision:** Q4, 2026
 
 ---
 
@@ -164,6 +165,4 @@ This project emphasizes interpretability and realism, making it suitable for app
 
 [2] Ting, K. M., Zhu, Y., Carman, M. J., & Zhou, Z.-H. (2018). *Isolation Kernel and its Effect on SVM*.  ACM SIGKDD.  https://dl.acm.org/doi/10.1145/3219819.3219990  
 
-[3] Bilge, L., et al. (2012). *Exposure: Finding Malicious Domains Using Passive DNS Analysis*.  NDSS.  https://www.ndss-symposium.org/ndss2012/exposure-finding-malicious-domains-using-passive-dns-analysis/  
-
- 
+[3] Bilge, L., Kirda, E., Kruegel, C., & Balduzzi, M. (2011). *EXPOSURE: Finding Malicious Domains Using Passive DNS Analysis*. NDSS. https://www.ndss-symposium.org/ndss2011/exposure-finding-malicious-domains-using-passive-dns-analysis/

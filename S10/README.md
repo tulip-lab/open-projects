@@ -5,7 +5,8 @@
 
 **Project Code:** S10  
 **Track:** Security × Artificial Intelligence  
-**Revision:** Q4, 2025  
+Project Supervisor :point_right: : To be confirmed.\
+**Revision:** Q4, 2026
 
 ---
 

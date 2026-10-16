@@ -5,7 +5,8 @@
 
 **Project Code:** S14  
 **Track:** Security × Artificial Intelligence  
-**Revision:** Q1, 2024  
+Project Supervisor :point_right: : To be confirmed.\
+**Revision:** Q4, 2026
 
 ---
 
@@ -15,7 +16,7 @@ Deep learning models, including reinforcement learning (RL) policies, are increa
 
 By querying a deployed policy and observing its outputs, attackers may reconstruct a substitute model that is functionally equivalent or closely approximates the target policy. Such **model stealing attacks** allow adversaries to replicate proprietary systems without access to training data or parameters, and can further enable downstream attacks such as adversarial manipulation, system impersonation, or security circumvention.
 
-Understanding and evaluating model stealing attacks against RL policies under realistic black-box settings is therefore of significant practical and security relevance  [oai_citation:1‡Topic 3.pdf](sediment://file_00000000a3e07206a5edcc5bce53a597).
+Understanding and evaluating model stealing attacks against RL policies under realistic black-box settings is therefore of significant practical and security relevance.
 
 ---
 
@@ -95,4 +96,4 @@ By completing this project, students will gain hands-on experience with black-bo
 
 [3] S. Pal, Y. Gupta, A. Shukla, A. Kanade, S. Shevade, and V. Ganapathy, *ActiveThief: Model Extraction Using Active Learning and Unannotated Public Data*, AAAI Conference on Artificial Intelligence 2020, https://ojs.aaai.org/index.php/AAAI/article/view/5432    
 
-[4] Z. Zhuang, M.-I. Nicolae, and M. Fritz, *Stealthy Imitation: Reward-Guided Environment-Free Policy Stealing*, arXiv:2405.07004, 2024, https://arxiv.org/abs/2405.07004   
+[4] Z. Zhuang, M.-I. Nicolae, and M. Fritz, *Stealthy Imitation: Reward-Guided Environment-Free Policy Stealing*, arXiv:2405.07004, 2024, https://arxiv.org/abs/2405.07004

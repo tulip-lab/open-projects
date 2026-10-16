@@ -4,8 +4,8 @@
 # `NEXUS` Data Distillation
 
 ---
-- Project Owner :point_right: : [Shuxia Lin](https://www.tulip.org.au/members/)
-- Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
+- Project Supervisor :point_right: : [Dr Shuxia Lin](https://www.tulip.academy/members/)
+- Prepared by :tulip: **[TULIP Lab](https://www.tulip.academy/members)**
 ---
 
 Data distillation, an emerging technique within the broader field of data compression and model training, aims to create compact, informative representations of large datasets. This process not only reduces storage and computational demands but also potentially enhances model performance by focusing on the most salient features of the data. The incorporation of causal relationship analysis into data distillation represents an innovative approach, promising to maintain or even improve the predictive power of models trained on distilled datasets by preserving the underlying causal structures of the data.
@@ -19,18 +19,18 @@ The related documents are encrypted, and you will receive the password upon the 
 
 ##### :point_right: Featured Student Works
 
-- TO BE ADDED
+Student work examples will be added when available.
 
 ### :notebook_with_decorative_cover: `NEXUS-S2` (compatible with [SIT724](https://www.deakin.edu.au/courses/unit?unit=SIT724))
 
 The related documents are encrypted, and you will receive the password upon the acceptance into the stage :two: of the project. 
 
 - [NEXUS-S2 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S2.pdf) 
-- [Stage :two: - N05: Data Distillation](https://github.com/tulip-lab/handouts/blob/main/nexus/N05-S2.pdf) 
+- Stage :two: - N05: Data Distillation — project-specific brief pending publication.
 
 ##### :point_right: Featured Student Works
 
-- TO BE ADDED
+Student work examples will be added when available.
 
 
 ### :notebook_with_decorative_cover: `NEXUS-S3` (compatible with [Honours](https://www.deakin.edu.au/course/bachelor-information-technology-honours))
@@ -39,8 +39,8 @@ The related documents are encrypted, and you will receive the password upon the 
 The related documents are encrypted, and you will receive the password upon the acceptance into the stage :three: of the project. 
 
 - [NEXUS-S3 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S3.pdf) 
-- [Stage :three: - N05: Data Distillation](https://github.com/tulip-lab/handouts/blob/main/nexus/N05-S3.pdf) 
+- Stage :three: - N05: Data Distillation — project-specific brief pending publication.
 
 ##### :point_right: Featured Student Works
 
-- TO BE ADDED
+Student work examples will be added when available.

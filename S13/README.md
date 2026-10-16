@@ -5,7 +5,8 @@
 
 **Project Code:** S13  
 **Track:** Security × Artificial Intelligence  
-**Revision:** Q1, 2024  
+Project Supervisor :point_right: : To be confirmed.\
+**Revision:** Q4, 2026
 
 ---
 
@@ -15,7 +16,7 @@ Backdoor attacks aim to implant hidden malicious behaviors into learning systems
 
 Early studies on RL backdoors demonstrate that malicious behaviors can be embedded by manipulating rewards, observations, or policy updates during training. However, many existing attacks rely on overly strong assumptions, such as full access to the Markov Decision Process (MDP) or handcrafted state-specific triggers. As a result, these attacks are tightly coupled to a single environment and exhibit **poor generalization across tasks and domains**.
 
-This project focuses on **generalizable backdoor attacks in reinforcement learning**, aiming to design attack mechanisms that remain effective across different MDPs and tasks. Understanding such attacks is essential for assessing the real-world security risks of RL systems deployed in robotics, autonomous driving, and decision-making systems  [oai_citation:1‡Topic 2.pdf](sediment://file_00000000880472069761aab371a532be).
+This project focuses on **generalizable backdoor attacks in reinforcement learning**, aiming to design attack mechanisms that remain effective across different MDPs and tasks. Understanding such attacks is essential for assessing the real-world security risks of RL systems deployed in robotics, autonomous driving, and decision-making systems.
 
 ---
 
@@ -26,7 +27,7 @@ Most existing backdoor attacks in RL inject malicious behavior by manipulating o
 This motivates the central research question of this project:  
 **How can backdoor attacks in reinforcement learning be designed to generalize across different MDPs?**
 
-Recent advances attempt to decouple backdoor triggers from environment-specific states. **SleeperNets** learn trigger representations jointly with the policy and activate malicious behaviors when the policy enters particular internal representations, improving stealthiness and reducing reliance on explicit state triggers. **UniDoor** formalizes the problem of generalizable RL backdoors and proposes **action-level backdoor mechanisms**, where malicious behavior is activated in the action space rather than raw observations.
+Recent advances attempt to decouple backdoor triggers from environment-specific states. **SleeperNets** use dynamic reward poisoning to induce a chosen action when a predefined trigger is observed, with a framework designed to generalize across domains and MDPs [5]. **UniDoor** formalizes the problem of generalizable RL backdoors and proposes **action-level backdoor mechanisms**, where malicious behavior is activated in the action space rather than raw observations.
 
 This project builds on these ideas and encourages exploration of backdoor generalization across domains and tasks.
 
@@ -98,18 +99,16 @@ By completing this project, students will gain insight into how backdoor attacks
 
 ## 8. References
 
-## References
+[1] X. Zhang, Y. Ma, A. Singla, and X. Zhu, *Adaptive Reward-Poisoning Attacks against Reinforcement Learning*, ICML 2020, https://proceedings.mlr.press/v119/zhang20u.html
 
-[1] X. Zhang, Y. Ma, A. Singla, and X. Zhu, *Adaptive Reward-Poisoning Attacks against Reinforcement Learning*, ICML 2020, https://proceedings.mlr.press/v119/zhang20u.html  [oai_citation:0‡Proceedings of Machine Learning Research](https://proceedings.mlr.press/v119/zhang20u.html?utm_source=chatgpt.com)
+[2] Y. Wu, J. McMahan, X. Zhu, and Q. Xie, *Reward Poisoning Attacks on Offline Multi-Agent Reinforcement Learning*, arXiv:2206.01888, 2022, https://arxiv.org/abs/2206.01888
 
-[2] Y. Wu, J. McMahan, X. Zhu, and Q. Xie, *Reward Poisoning Attacks on Offline Multi-Agent Reinforcement Learning*, arXiv:2206.01888, 2022, https://arxiv.org/abs/2206.01888  [oai_citation:1‡arXiv](https://arxiv.org/abs/2206.01888?utm_source=chatgpt.com)
+[3] J. Cui, Y. Han, Y. Ma, J. Jiao, and J. Zhang, *BadRL: Sparse Targeted Backdoor Attack Against Reinforcement Learning*, AAAI 2024, https://arxiv.org/abs/2312.12585
 
-[3] J. Cui, Y. Han, Y. Ma, J. Jiao, and J. Zhang, *BadRL: Sparse Targeted Backdoor Attack Against Reinforcement Learning*, AAAI 2024, https://arxiv.org/abs/2312.12585  [oai_citation:2‡arXiv](https://arxiv.org/abs/2312.12585?utm_source=chatgpt.com)
+[4] Y. Ma, X. Zhang, W. Sun, and X. Zhu, *Policy Poisoning in Batch Reinforcement Learning and Control*, NeurIPS 2019, https://papers.nips.cc/paper_files/paper/2019/hash/315f006f691ef2e689125614ea22cc61-Abstract.html
 
-[4] Y. Ma, X. Zhang, W. Sun, and J. Zhu, *Policy Poisoning in Batch Reinforcement Learning and Control*, NeurIPS 2019, https://papers.nips.cc/paper/2019/hash/53f5c77c3c0f2a8fbd4b8b2c0fbd6f05-Abstract.html  [oai_citation:3‡Proceedings of Machine Learning Research](https://proceedings.mlr.press/v119/zhang20u.html?utm_source=chatgpt.com)
+[5] E. Rathbun, C. Amato, and A. Oprea, *SleeperNets: Universal Backdoor Poisoning Attacks Against Reinforcement Learning Agents*, NeurIPS 2024, https://arxiv.org/abs/2405.20539
 
-[5] E. Rathbun, C. Amato, and A. Oprea, *SleeperNets: Universal Backdoor Poisoning Attacks Against Reinforcement Learning Agents*, NeurIPS 2024, https://arxiv.org/abs/2405.20539  [oai_citation:4‡arXiv](https://arxiv.org/abs/2405.20539?utm_source=chatgpt.com)
-
-[6] O. Ma, L. Du, Y. Dai, C. Zhou, Q. Li, Y. Pu, and S. Ji, *UNIDOOR: A Universal Framework for Action-Level Backdoor Attacks in Deep Reinforcement Learning*, arXiv:2501.15529, 2025, https://arxiv.org/abs/2501.15529  [oai_citation:5‡arXiv](https://arxiv.org/abs/2501.15529?utm_source=chatgpt.com)
+[6] O. Ma, L. Du, Y. Dai, C. Zhou, Q. Li, Y. Pu, and S. Ji, *UNIDOOR: A Universal Framework for Action-Level Backdoor Attacks in Deep Reinforcement Learning*, arXiv:2501.15529, 2025, https://arxiv.org/abs/2501.15529
 
 [7] F. Liu, H. Liu, A. Grover, and P. Abbeel, *Masked Autoencoding for Scalable and Generalizable Decision Making*, NeurIPS 2022,  https://arxiv.org/abs/2211.12740

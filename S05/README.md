@@ -5,7 +5,8 @@
 
 **Project Code:** S05  
 **Track:** Security × Artificial Intelligence  
-**Revision:** Q1, 2026  
+Project Supervisor :point_right: : To be confirmed.\
+**Revision:** Q4, 2026
 
 ---
 
@@ -99,7 +100,7 @@ Expected outcomes include a reproducible clean-label backdoor implementation, ri
 
 [1] Shafahi, A., Najibi, M., Ghiasi, A., Xu, Z., Dickerson, J., Studer, C., Davis, L., Taylor, G., & Goldstein, T., *Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks*, NeurIPS 2018, https://papers.nips.cc/paper/2018/hash/22722a343513ed45f14905eb07621686-Abstract.html  
 [2] Turner, A., Tsipras, D., & Madry, A., *Label-Consistent Backdoor Attacks*, arXiv:1912.02771, https://arxiv.org/abs/1912.02771  
-[3] Saha, A., Subramanya, A., & Pirsiavash, H., *Hidden Trigger Backdoor Attacks*, AAAI 2021, https://ojs.aaai.org/index.php/AAAI/article/view/16248  
+[3] Saha, A., Subramanya, A., & Pirsiavash, H., *Hidden Trigger Backdoor Attacks*, AAAI 2020, https://ojs.aaai.org/index.php/AAAI/article/view/6871\
 [4] Wang, B., Yao, Y., Shan, S., Li, H., Viswanath, B., Zheng, H., & Zhao, B. Y., *Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks*, IEEE Symposium on Security and Privacy 2019, https://ieeexplore.ieee.org/document/8835365  
 [5] Gao, Y., Xu, C., Wang, D., Chen, S., Ranasinghe, D. C., & Nepal, S., *STRIP: A Defence Against Trojan Attacks on Deep Neural Networks*, ACSAC 2019, https://arxiv.org/abs/1902.06531  
-[6] Wu, B., Wang, X., Chen, S., Li, Z., & Jin, H., *Adversarial Neuron Pruning Purifies Backdoored Deep Models*, NeurIPS 2021, https://arxiv.org/abs/2105.02600  
+[6] Wu, B., Wang, X., Chen, S., Li, Z., & Jin, H., *Adversarial Neuron Pruning Purifies Backdoored Deep Models*, NeurIPS 2021, https://arxiv.org/abs/2105.02600

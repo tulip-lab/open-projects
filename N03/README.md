@@ -4,8 +4,8 @@
 # `NEXUS` Privacy Attack in RL
 
 ---
-- Project Owner :point_right: : [Yike Li](https://www.tulip.org.au/members/)
-- Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
+- Project Supervisor :point_right: : [Yike Li](https://www.tulip.academy/members/)
+- Prepared by :tulip: **[TULIP Lab](https://www.tulip.academy/members)**
 ---
 
 The landscape of commercial Reinforcement Learning (RL) services has expanded significantly, offering platforms that empower users, even those without expertise in RL, to effortlessly construct policy models tailored to their specific task environments. However, a prevalent issue arises when users, relying on provided codebases, train policy models without a clear understanding of the underlying mechanisms. This lack of insight into how the models operate introduces a significant risk of privacy breaches, as sensitive information may inadvertently be exposed during the training process.
@@ -22,18 +22,18 @@ The related documents are encrypted, and you will receive the password upon the 
 
 ##### :point_right: Featured Student Works
 
-- TO BE ADDED
+Student work examples will be added when available.
 
 ### :notebook_with_decorative_cover: `NEXUS-S2` (compatible with [SIT724](https://www.deakin.edu.au/courses/unit?unit=SIT724))
 
 The related documents are encrypted, and you will receive the password upon the acceptance into the stage :two: of the project. 
 
 - [NEXUS-S2 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S2.pdf) 
-- [Stage :two: - N01: Privacy-Stealing Attack in RL](https://github.com/tulip-lab/handouts/blob/main/nexus/N03-S2.pdf) 
+- Stage :two: - N03: Privacy-Stealing Attack in RL — project-specific brief pending publication.
 
 ##### :point_right: Featured Student Works
 
-- TO BE ADDED
+Student work examples will be added when available.
 
 
 ### :notebook_with_decorative_cover: `NEXUS-S3` (compatible with [Honours](https://www.deakin.edu.au/course/bachelor-information-technology-honours))
@@ -42,8 +42,8 @@ The related documents are encrypted, and you will receive the password upon the 
 The related documents are encrypted, and you will receive the password upon the acceptance into the stage :three: of the project. 
 
 - [NEXUS-S3 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S3.pdf) 
-- [Stage :three: - N03: Privacy-Stealing Attack in RL](https://github.com/tulip-lab/handouts/blob/main/nexus/N03-S3.pdf) 
+- Stage :three: - N03: Privacy-Stealing Attack in RL — project-specific brief pending publication.
 
 ##### :point_right: Featured Student Works
 
-- TO BE ADDED
+Student work examples will be added when available.

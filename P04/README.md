@@ -3,6 +3,8 @@
 
 # Abnormal DNS Traffic Detection 
 
+Project Supervisor :point_right: : To be confirmed.
+
 DNS is a critical and foundational protocol of the internet - often described as the `phonebook of the internet`, which maps the domain names to IP addresses. However, DNS' ubiquity (and frequent lack of scrutiny) can enable very elegant and subtle methods for communicating, and sharing data, beyond the protocol's original intentions. Free tools are available for attackers to create covert channels over DNS for the purposes of hiding communication or bypassing policies put in place by network administrators.
 
 This project theme (and its subprojects) represents a collective effort in understanding the security loopholes related to DNS service and developing methods to identify abnormal DNS traffic for risk mitigation. 
@@ -41,5 +43,4 @@ There will be a varies of extra skills for the team members:
 
 ## Resources Required
 
-No special hardware, and common open packages only. 
-
+No special hardware, and common open packages only.
